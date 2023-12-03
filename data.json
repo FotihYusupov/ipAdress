@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "ipAddress": "ip address"
+  },
+  {
+    "id": 2,
+    "ipAddress": "::1"
+  }
+]
